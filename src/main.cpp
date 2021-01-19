@@ -29,6 +29,8 @@ TFT_eSPI tft = TFT_eSPI();
 #include "jpeg2.h"
 #include "jpeg3.h"
 #include "jpeg4.h"
+//#include "jpeg5.h"
+//#include "jpeg6.h"
 
 // Count how many times the image is drawn for test purposes
 uint32_t icount = 0;
